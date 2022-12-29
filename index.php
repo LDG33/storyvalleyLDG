@@ -1,14 +1,5 @@
-<?php
 
-$x = 10;
 
-while($x>0)
-{
-    echo("Lorem ipsum <br>");
-    $x--;
-}
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
